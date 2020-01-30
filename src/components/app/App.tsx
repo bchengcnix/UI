@@ -10,7 +10,7 @@ const App: React.FC = () => {
       <h1>TRADER</h1>
       <p>Current $: {currentAmount}</p>
       <p>Start $: {startAmount}</p>
-      <button>START</button>
+      <button>Gainzz</button>
     </div>
   );
 };
